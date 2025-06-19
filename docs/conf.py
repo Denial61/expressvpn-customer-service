@@ -1,4 +1,4 @@
-project = 'HitmanPro Customer Service'
+project = 'ExpressVPN Customer Service'
 author = 'Denial '
 release = '1.0'
 
